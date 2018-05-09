@@ -14,13 +14,13 @@ Put the project file in apache `htdocs` or `html` folder.
 # User
 ## Read API
 
-GET: http://test-api.local/api/user/read.php?id=1
+GET: {domain}/api/user/read.php?id=1
 
 - id: user id 
 
 ## Update API
 
-POST: http://test-api.local/api/user/update.php
+POST: {domain}/api/user/update.php
 
 Key:
 - id
